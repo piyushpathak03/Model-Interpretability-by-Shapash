@@ -4,6 +4,8 @@
 
 Shapash is a Python library which aims to make machine learning interpretable and understandable to everyone. Shapash provides several types of visualization which displays explicit labels that everyone can understand. Data Scientists can more easily understand their models and share their results. End users can understand the decision proposed by a model using a summary of the most influential criteria. The project was developed by MAIF Data Scientists.
 
+To Summarize and export the local explanation: Shapash proposes a short and clear local explanation. It allows each user, whatever their Data backround is, to understand a local prediction of a supervised model, thanks to a summarized and straightforward explanation
+
 ## Shapash features:
 Compatible with Shap & Lime
 
